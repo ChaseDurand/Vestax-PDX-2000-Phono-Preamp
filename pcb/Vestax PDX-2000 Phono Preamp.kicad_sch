@@ -1585,7 +1585,7 @@
     (property "Reference" "C2" (id 0) (at 73.66 85.0899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "C" (id 1) (at 73.66 87.6299 0)
+    (property "Value" "33u" (id 1) (at 73.66 87.6299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_THT:CP_Radial_Tantal_D9.0mm_P5.00mm" (id 2) (at 70.8152 90.17 0)
@@ -2911,7 +2911,7 @@
       (reference "C1") (unit 1) (value "0.47u") (footprint "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm")
     )
     (path "/2398130b-3ced-46f7-bd20-68a8905f6282"
-      (reference "C2") (unit 1) (value "C") (footprint "Capacitor_THT:CP_Radial_Tantal_D9.0mm_P5.00mm")
+      (reference "C2") (unit 1) (value "33u") (footprint "Capacitor_THT:CP_Radial_Tantal_D9.0mm_P5.00mm")
     )
     (path "/29b53c85-2641-4f1c-8ad3-b4972ce9fb90"
       (reference "C3") (unit 1) (value "2u2") (footprint "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm")
