@@ -23,7 +23,7 @@ The board uses existing PCB screws on board P100 to mount in the chasis. The exi
 
 Overall performance is very good with minimal deviations from RIAA, simulation, and left/right channels. Note that some plots below use a heavily magnified delta on the right axis.
 
-The [LTSpice simulation](spice/) closely follows the RIAA amplitude curve within +/-0.05dB:
+The [LTspice simulation](spice/) closely follows the RIAA amplitude curve within +/-0.05dB:
 
 <p align='center'>
     <img width=90% alt='Phono preamp installed' src='plots/mag_spice_riaa.png'>
