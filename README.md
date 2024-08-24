@@ -12,3 +12,11 @@ Specs:
 * Actual amplitude within +/-0.5dB of RIAA.
 * Left/right channel amplitude within +/-0.22dB.
 * Left/right channel phase within +/-0.67°.
+
+<p align='center'>
+    <img width=90% alt='Phono preamp schematic' src='pics/preamp_pcb.PNG'>
+</p>
+
+<p align='center'>
+    <img width=90% alt='Phono preamp schematic' src='pics/preamp_pcb_3d.PNG'>
+</p>
