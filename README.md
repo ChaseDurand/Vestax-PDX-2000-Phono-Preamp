@@ -1,5 +1,5 @@
 # Vestax-PDX-2000-Phono-Preamp
-Integrated phono preamp for Vestax PDX-2000 turntables. Board taps into internal +15V/-15/GND for power and is hardwired into the audio path. Designed for moving magnet catridges (specifically Shure M44-7 and Ortofon Mix Concorde Mk II).
+Integrated phono preamp for Vestax PDX-2000 turntables. Board taps into internal +15V/-15V/GND for power and is hardwired into the audio path. Designed for moving magnet catridges (specifically Shure M44-7 and Ortofon Mix Concorde Mk II).
 
 <p align='center'>
     <img width=90% alt='Phono preamp on schematic' src='pics/preamp_schematic.jpg'>
